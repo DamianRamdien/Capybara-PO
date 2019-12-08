@@ -7,6 +7,7 @@ html, body {
 .page {
   background-color: white;
   font-family: sans-serif;
+}
 
 .nav-header {
   background-image: url(https://thumbs.gfycat.com/SociableEmbellishedBallpython-size_restricted.gif);
@@ -56,6 +57,7 @@ h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
+  border-bottom: 2px solid grey;
 }
 
 h2 {
